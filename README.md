@@ -1,4 +1,4 @@
-# Library Management System Database and Stored Procedures
+# Library Management System Database
 
 ## Overview
 
